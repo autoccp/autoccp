@@ -1,0 +1,7 @@
+2f66b62e8816e08e73c5aa5d7d2859d6a2dfadb4e81c99117e1a72386c5247bd  autoccp-v0.0.1-linux32.tar.gz
+4089f658e9caaa37afa91f01466ae444f042bc9108f2e6529aea83d6eec5eb61  autoccp-v0.0.1-linux64.tar.gz
+ba3a7eb75f20b49b0c205ec92f2bbdb84cef1818e5200bafdec49b8e6048554c  autoccp-v0.0.1-macOS.tar.gz
+89e3b835cead2f176edcfdc546a4102e9276706af8d2bdcd45f12b5173ed130c  autoccp-v0.0.1-win32-installer.exe
+9704a9567755181c251c3cd0f9b539213541c4aef66d8254cdf261d63fff3e89  autoccp-v0.0.1-win32.zip
+5228c41335ee2378c84f3d5835b9ce86d62d1573a0cfcaa0754f9b8afdeff1dd  autoccp-v0.0.1-win64-installer.exe
+86861d1b3b9af93e121c1e635c11e03f4f05b2bc3b3b206cf8f82456c8e34654  autoccp-v0.0.1-win64.zip
